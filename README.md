@@ -1,3 +1,5 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/154aa26d-fb4f-4ee1-a06a-6281ec5b5ccd)
+
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
